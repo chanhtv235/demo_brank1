@@ -1,12 +1,1 @@
-lần 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-main update 1
-=======
-devloper update
->>>>>>> developer
-=======
-devloper update
-main update 1
-
->>>>>>> 8d5d644814bbc61a88fb6ecf85cecaa9a4350ec6
+hello
