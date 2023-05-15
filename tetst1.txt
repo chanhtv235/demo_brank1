@@ -1,2 +1,6 @@
 lần 1
+<<<<<<< HEAD
 main update 1
+=======
+devloper update
+>>>>>>> developer
